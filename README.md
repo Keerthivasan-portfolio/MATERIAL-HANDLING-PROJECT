@@ -1,1 +1,4 @@
-# MATERIAL-HANDLING-PROJECT
+Conventional material handling equipment typically requires additional manual effort to pick, position, and stock totes onto side platforms, reducing efficiency and increasing operator strain. To overcome this limitation, I worked on redesigning the existing mechanism with a focus on improving ergonomics and ease of operation. 
+
+Using Autodesk Inventor, I developed a new design that allows the structure to rotate about two central axes, enabling flexible positioning of the totes while ensuring they remain stable without swiveling independently. This design maintains control over tote orientation during movement and placement. As a proof of concept, I successfully 3D printed and assembled a working prototype to validate the mechanism’s functionality. Based on these results, The team is currently building a full-scale metal prototype.
+
